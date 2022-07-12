@@ -1,0 +1,45 @@
+.headline {
+    color: red;
+    background-color: yellow;
+    border: 10px solid brown;
+    padding: 100px;
+    margin: 10px;
+}
+
+.headfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+/* div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+*/
+
+
+ul {font-size: 40px;
+    /*font-weight: bold;*/
+    
+
+}
+
+
+
+li {font-size: 21px;
+    font-family:'Verdana', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: none;
+    border: 3px solid gray;
+    padding: 1em;
+    display:inline-block;
+}
+
+.first {color: red}
+
+.second {colour: blue}
+
+.third {color: green}
+
